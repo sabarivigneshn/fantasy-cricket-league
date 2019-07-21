@@ -1,0 +1,11 @@
+{
+    "database": {
+        "password": "root",
+        "dialect": "mysql",
+        "name": "fantasy_league",
+        "host": "127.0.0.1",
+        "username": "root"
+    },
+    "time": {
+        "team_selection_end_time": "18:00"
+    }}
