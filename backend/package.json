@@ -27,7 +27,7 @@
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "promise": "^8.0.2",
-    "sequelize": "^4.42.0",
+    "sequelize": "^5.15.1",
     "uuid": "^3.3.2",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^3.6.0"
